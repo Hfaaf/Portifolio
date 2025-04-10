@@ -31,7 +31,6 @@ O frontend é feito com **React + Vite + Tailwind CSS**, enquanto o backend é c
 
 - [ASP.NET Core](https://dotnet.microsoft.com/)
 - [C#](https://learn.microsoft.com/pt-br/dotnet/csharp/)
-- API RESTful com autenticação (em breve)
 
 ---
 

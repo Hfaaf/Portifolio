@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\PC\\Desktop\\Pessoal\\Heitor\\Portifolio\\backEnd\\backEnd.csproj": {}
+    "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/backEnd.csproj": {}
   },
   "projects": {
-    "C:\\Users\\PC\\Desktop\\Pessoal\\Heitor\\Portifolio\\backEnd\\backEnd.csproj": {
+    "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/backEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\PC\\Desktop\\Pessoal\\Heitor\\Portifolio\\backEnd\\backEnd.csproj",
+        "projectUniqueName": "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/backEnd.csproj",
         "projectName": "backEnd",
-        "projectPath": "C:\\Users\\PC\\Desktop\\Pessoal\\Heitor\\Portifolio\\backEnd\\backEnd.csproj",
-        "packagesPath": "C:\\Users\\PC\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\PC\\Desktop\\Pessoal\\Heitor\\Portifolio\\backEnd\\obj\\",
+        "projectPath": "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/backEnd.csproj",
+        "packagesPath": "/home/hfaaf/.nuget/packages/",
+        "outputPath": "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\PC\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "/home/hfaaf/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -37,7 +37,8 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
-        }
+        },
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0": {
@@ -63,6 +64,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[8.0.14, 8.0.14]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -71,7 +78,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.407/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/9.0.202/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

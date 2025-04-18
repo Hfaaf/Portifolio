@@ -487,11 +487,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/backEnd.csproj",
+      "projectUniqueName": "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj",
       "projectName": "backEnd",
-      "projectPath": "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/backEnd.csproj",
+      "projectPath": "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj",
       "packagesPath": "/home/hfaaf/.nuget/packages/",
-      "outputPath": "/home/hfaaf/Documents/Projetos/web/Portifolio/backEnd/obj/",
+      "outputPath": "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/hfaaf/.nuget/NuGet/NuGet.Config"

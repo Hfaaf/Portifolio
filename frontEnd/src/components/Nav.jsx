@@ -24,7 +24,7 @@ export function Nav() {
             html.classList.remove("dark")
         }
     }, [isDarkMode])
-    
+
 
     return (
         <nav className="bg-white border-gray-200 dark:bg-gray-900">
@@ -38,16 +38,16 @@ export function Nav() {
                 <div className="flex md:order-2 space-x-3 md:space-x-0 rtl:space-x-reverse">
                     <div className=" flex flex-row space-x-2 rtl:space-x-reverse rounded-xl bg-black dark:bg-gray-500 p-1 size-min">
                         <MdOutlineLightMode
-                        onClick={toggleDarkMode} 
-                        className={`block gap-2 text-2xl 
+                            onClick={toggleDarkMode}
+                            className={`block gap-2 text-2xl 
                         ${isDarkMode ? "text-gray-500" : "text-yellow-500"} 
-                        rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-yellow-700 md:p-0 dark:text-white md:dark:hover:text-yellow-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent`} />
+                        rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:border-0 cursor-pointer md:hover:text-yellow-700 md:p-0 dark:text-white md:dark:hover:text-yellow-500 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent`} />
                         <span className="text-gray-500 dark:text-gray-200">|</span>
                         <MdOutlineDarkMode
-                        onClick={toggleDarkMode}
-                         className={`block gap-2 text-2xl
+                            onClick={toggleDarkMode}
+                            className={`block gap-2 text-2xl
                          ${isDarkMode ? "text-purple-900" : "text-gray-500"}
-                            rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:border-0 md:hover:text-purple-900 md:p-0 md:dark:hover:text-purple-700 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent`} />
+                            rounded-sm hover:bg-gray-100 md:hover:bg-transparent md:border-0 cursor-pointer md:hover:text-purple-900 md:p-0 md:dark:hover:text-purple-700 dark:hover:bg-gray-700 dark:hover:text-white md:dark:hover:bg-transparent`} />
                     </div>
                     <button
                         onClick={toggleMenu}

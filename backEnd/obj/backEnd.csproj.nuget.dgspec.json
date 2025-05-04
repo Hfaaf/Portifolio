@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj": {}
+    "/home/hfaaf/Público/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj": {}
   },
   "projects": {
-    "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj": {
+    "/home/hfaaf/Público/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj",
+        "projectUniqueName": "/home/hfaaf/Público/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj",
         "projectName": "backEnd",
-        "projectPath": "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj",
+        "projectPath": "/home/hfaaf/Público/Documentos/Projetos/web/Portifolio/backEnd/backEnd.csproj",
         "packagesPath": "/home/hfaaf/.nuget/packages/",
-        "outputPath": "/home/hfaaf/Documentos/Projetos/web/Portifolio/backEnd/obj/",
+        "outputPath": "/home/hfaaf/Público/Documentos/Projetos/web/Portifolio/backEnd/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/hfaaf/.nuget/NuGet/NuGet.Config"
